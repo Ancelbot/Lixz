@@ -21,23 +21,16 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = ` 𝙅𝙤𝙨𝙨 𝘽𝙤𝙩  🤺 𝙗𝙮 @𝙖𝙣𝙘𝙚𝙡𝙯𝙯𝙯
+    const str = ` 𝐋𝐢𝐱𝐳𝐁𝐨𝐭  🤺 
 
- ▢ *Ey , Hola JossLovers, ${taguser} te presento el joss bot*
+ ▢ *Ey , Hola LixzLovers, ${taguser} te presento al Lixz bot*
 
- ▢ *Owner:* 𝙅𝙤𝙨𝙨 🤺
- ▢ *WA:* wa.me/56986469687
- ▢ *IG:* @ancelzzz
- ▢ *PayPal:* paypal.me/ancelzzz
+ ▢ *Owner:* Lizx 🤺
+ ▢ *WA:* wa.me/+5215548901215
+ ▢ *WP:* https://chat.whatsapp.com/FcO8ZdmhX8eD37OWSDhHjT
  ▢ *Uptime:* ${uptime}
  ▢ *Usuarios regs:* ${rtotalreg}
  ▢ *Usuarios totales:* ${rtotal}
-
-
- *« COMPRAR BOT »*
-
- ▢ _${usedPrefix}Paypal *< Comprar Bot >*_
- ▢ _${usedPrefix}Vendedores *< Comprar Bot >*_
 
 
  _*< INFO. DEL USUARIO />*_
