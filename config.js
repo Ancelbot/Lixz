@@ -14,7 +14,7 @@ global.owner = [
   ['50360082744', '💫 𝙅𝙤𝙨𝙨 - Collaborator 1 💫', true],
   ['5491162522169', '💫 𝙅𝙤𝙨𝙨 - Collaborator 2 💫', true],
   ['56986469687', '💫 𝙅𝙤𝙨𝙨 - Collaborator 3 💫', true],
-  ['59174332123', '💫 𝙅𝙤𝙨𝙨 - Collaborator 4 💫', true],
+  ['52115548901215', '💫 𝙅𝙤𝙨𝙨 - Collaborator 4 💫', true],
   ['59163552945', '💫 𝙅𝙤𝙨𝙨 - Collaborator 5 💫', true],
   ['51923844756', '💫 𝙅𝙤𝙨𝙨 - Collaborator 6 💫', true],
   ['51936144299', '💫 𝙅𝙤𝙨𝙨c - Collaborator 7 💫', false],
@@ -37,11 +37,11 @@ global.suittag = ['56986469687'];
 global.prems = ['56986469687'];
 
 global.packname = 'Sticker';
-global.author = '𝕵𝖔𝖘𝖘 𝕭𝖔𝖙 🏴‍☠️';
-global.wm = '𝕵𝖔𝖘𝖘 𝕭𝖔𝖙 🏴‍☠️';
-global.titulowm = '𝕵𝖔𝖘𝖘 𝕭𝖔𝖙 🏴‍☠️';
-global.titulowm2 = `𝕵𝖔𝖘𝖘 𝕭𝖔𝖙 🏴‍☠️`
-global.igfg = '𝕵𝖔𝖘𝖘 𝕭𝖔𝖙 🏴‍☠️';
+global.author = '𝐋𝐢𝐱𝐳𝐁𝐨𝐭';
+global.wm = '𝐋𝐢𝐱𝐳𝐁𝐨𝐭 🏴‍☠️';
+global.titulowm = '𝐋𝐢𝐱𝐳𝐁𝐨𝐭 🏴‍☠️';
+global.titulowm2 = `𝐋𝐢𝐱𝐳𝐁𝐨𝐭 🏴‍☠️`
+global.igfg = '𝐋𝐢𝐱𝐳𝐁𝐨𝐭 🏴‍☠️';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -62,9 +62,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝕵𝖔𝖘𝖘 𝕭𝖔𝖙 🏴‍☠️t`;
-global.gt = '𝕵𝖔𝖘𝖘 𝕭𝖔𝖙 🏴‍☠️';
-global.mysticbot = '𝕵𝖔𝖘𝖘 𝕭𝖔𝖙 🏴‍☠️';
+global.wm2 = `${dia} ${fecha}\n𝐋𝐢𝐱𝐳𝐁𝐨𝐭t`;
+global.gt = '𝐋𝐢𝐱𝐳𝐁𝐨𝐭 🏴‍☠️';
+global.mysticbot = '𝐋𝐢𝐱𝐳𝐁𝐨𝐭 🏴‍☠️';
 global.md = 'https://www.instagram.com/ancelzzz/';
 global.mysticbot = 'https://www.instagram.com/ancelzzz/';
 global.waitt = '*[ ⏳ ] Cargando...*';
